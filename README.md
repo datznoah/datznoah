@@ -15,6 +15,11 @@ Want to talk? Feel free to contact me via the email below, or find other ways to
 01134f80-2bfb-4beb-9649-a76960629350@anonaddy.me
 ```
 
+### Donations 💰
+Donations are graciously accepted but are not at all required.</br>
+[![](https://www.coinpayments.net/images/pub/buynow-wide-blue.png)](https://coinpayments.net/$datznoah)
+[![](https://i.ibb.co/4YDy7Tg/ezgif-com-gif-maker.png)](https://en.liberapay.com/datznoah/donate)
+
 ### Guess that's all (for now) 😎
 Feel free to contact me anytime if you wanna chat, always looking to have a conversation.
 
