@@ -18,7 +18,7 @@ Want to talk? Feel free to contact me via the email below, or find other ways to
 ### Donations 💰
 Donations are graciously accepted but are not at all required.</br>
 [![](https://www.coinpayments.net/images/pub/buynow-wide-blue.png)](https://coinpayments.net/$datznoah)
-[![](https://i.ibb.co/4YDy7Tg/ezgif-com-gif-maker.png)](https://en.liberapay.com/datznoah/donate)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?cmd=_donations&business=MBMXUJYZ6YJK4&currency_code=USD)
 
 ### Guess that's all (for now) 😎
 Feel free to contact me anytime if you wanna chat, always looking to have a conversation.
