@@ -11,8 +11,10 @@ My name's Noah, and I sometimes contribue to open source projects.
 ### Let's talk 💬
 Want to talk? Feel free to contact me via the email below, or find other ways to reach me [**here**](https://datznoah.me/contact).
 
+> ⚠️ I get lots of emails, so it make take a while to get a response. [Try another method of contact](https://datznoah.me/contact) instead.
+
 ```
-01134f80-2bfb-4beb-9649-a76960629350@anonaddy.me
+datznoah@airmail.cc
 ```
 
 ### Donations 💰
