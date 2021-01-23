@@ -1,17 +1,15 @@
 ## Hi there 👋
-My name's Noah, and I sometimes contribue to open source projects.
+My name's Noah!
 
 
 ### Noteworthy Work 📋
 * [**CryptoTask**](https://cryptotask.net) (closed source) | Privacy conscious & cryptocurrency focused GPT site.
-* [**Personal Journal**](https://datznoah.me) ([hashnode.com](https://hashnode.com/@datznoah/joinme)) | Sometimes interesting posts about privacy and web development.
-* [**noh.wtf**](https://noh.wtf) (source soon) | Private and reliable contact forms
 * [**Coffee**](https://discord.ly/coffee) (closed source) | Quick & easy to use ticket bot for Discord.
 
 ### Let's talk 💬
 Want to talk? Feel free to contact me via the email below, or find other ways to reach me [**here**](https://datznoah.me/contact).
 
-> ⚠️ I get lots of emails, so it make take a while to get a response. [Try another method of contact](https://datznoah.me/contact) instead.
+> ⚠️ It may take a while to get a response, sorry.
 
 ```
 datznoah@airmail.cc
@@ -19,9 +17,10 @@ datznoah@airmail.cc
 
 ### Donations 💰
 Donations are graciously accepted but are not at all required.</br>
-[![](https://www.coinpayments.net/images/pub/buynow-wide-blue.png)](https://coinpayments.net/$datznoah)
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?cmd=_donations&business=MBMXUJYZ6YJK4&currency_code=USD)
+[Go to my website](https://datznoah.me/#donate)
 
-### Guess that's all (for now) 😎
-Feel free to contact me anytime if you wanna chat, always looking to have a conversation.
-
+### More about me 👨‍💻
+* 👨 I use he/him pronouns and I'm a biological male.
+* 💼 I'm an "intermediate" level web developer
+* 🇺🇸 I live in the United States
+> ❓ If you need more information about me please email me. I'm willing to share any (relevant) information you request.
