@@ -7,13 +7,9 @@ My name's Noah!
 * [**Coffee**](https://discord.ly/coffee) (closed source) | Quick & easy to use ticket bot for Discord.
 
 ### Let's talk 💬
-Want to talk? Feel free to contact me via the email below, or find other ways to reach me [**here**](https://datznoah.me/contact).
+> ⚠️ Due to a recent increase in spam, my website is the only way to contact me. My old public email is whitelist only.
 
-> ⚠️ It may take a while to get a response, sorry.
-
-```
-datznoah@airmail.cc
-```
+Please fill out the contant form on my website: https://datznoah.me<br>
 
 ### Donations 💰
 Donations are graciously accepted but are not at all required.</br>
