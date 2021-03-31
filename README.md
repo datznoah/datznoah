@@ -16,7 +16,7 @@ Donations are graciously accepted but are not at all required.</br>
 [Go to my website](https://datznoah.me/#donate)
 
 ### More about me 👨‍💻
-* 👨 I use he/him pronouns and I'm a biological male.
+* 👨 I use he/him pronouns and I'm a cisgender male.
 * 💼 I'm an "intermediate" level web developer
 * 🇺🇸 I live in the United States
 > ❓ If you need more information about me please email me. I'm willing to share any (relevant) information you request.
