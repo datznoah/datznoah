@@ -2,7 +2,7 @@
 My name's Noah!
 
 ### Let's talk 💬
-Please fill out the contant form on my website: https://datznoah.me<br>
+Please fill out the contact form on my website: https://datznoah.me<br>
 
 ### Donations 💰
 Donations are graciously accepted but are not at all required.</br>
