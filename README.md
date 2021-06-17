@@ -9,7 +9,7 @@ Donations are graciously accepted but are not at all required.</br>
 [Go to my website](https://datznoah.me/#donate)
 
 ### Some important information 👨‍💻
-* 👨 I use **he/him** pronouns and I'm a cisgender male.
+* 👨 I use **he/him** pronouns
 * 🇺🇸 I live in the United States
 * 🌎 I use [Chicago time](https://time.is/Chicago)
 * ☺️ I'm not perfect and appriciate constructive criticism
